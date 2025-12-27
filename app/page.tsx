@@ -69,7 +69,7 @@ export default function Home() {
           </div>
 
           <div className="card">
-            <h3></h3>
+            <h3>Green Supply Chain Optimizer</h3>
             <p>
               Analytics-based project focused on optimizing supply chains
               with sustainability and cost efficiency in mind.

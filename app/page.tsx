@@ -41,8 +41,8 @@ export default function Home() {
 
           <div className="card">
             <h3>Libraries</h3>
-            <p>Pandas, NumPy, Matplotlib</p>
-          </div>
+            <p>Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn</p>
+          </div> 
 
           <div className="card">
             <h3>Analytics</h3>
@@ -51,7 +51,7 @@ export default function Home() {
 
           <div className="card">
             <h3>Tools</h3>
-            <p>Git, GitHub, Excel</p>
+            <p>Git, GitHub, Excel,PowerBI,Tableau,Jupyter Notebook, VS Code</p>
           </div>
         </div>
       </section>
@@ -63,13 +63,13 @@ export default function Home() {
           <div className="card">
             <h3>Retail Sales Forecasting</h3>
             <p>
-              Performed exploratory data analysis and forecasting on
+              Performed Exploratory Data Analysis and forecasting on
               historical retail sales data to identify trends and patterns.
             </p>
           </div>
 
           <div className="card">
-            <h3>Green Supply Chain Optimization</h3>
+            <h3></h3>
             <p>
               Analytics-based project focused on optimizing supply chains
               with sustainability and cost efficiency in mind.
@@ -81,9 +81,9 @@ export default function Home() {
       {/* CONTACT SECTION */}
       <section className="section">
         <h2>Contact</h2>
-        <p>Email: your-email@gmail.com</p>
-        <p>GitHub: github.com/your-username</p>
-        <p>LinkedIn: linkedin.com/in/your-profile</p>
+        <p>Email: sinmorepalak@gmail.com</p>
+        <p>GitHub: github.com/sinmorepalak-git1</p>
+        <p>LinkedIn: linkedin.com/in/Palak Sinmore</p>
       </section>
 
       {/* FOOTER */}

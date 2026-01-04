@@ -73,9 +73,9 @@ export default function Home() {
             <p>
               Interacive Tic-Tac-Toe game with 1 Player AI, 2 Player mode, Animations.
             </p>
-            <a>href="https://tic-tac-toe-game-beta-ecru.vercel.app/" target="_blank" rel="noopener noreferrer"
+            <a href="https://tic-tac-toe-game-beta-ecru.vercel.app/" target="_blank" rel="noopener noreferrer">
             view project 
-            </a> 
+            </a>
           </div>
         </div>
       </section>

@@ -61,7 +61,7 @@ body {
   color: #93c5fd;
 }
 
-/* Footer */
+
 .footer {
   background-color: #020617;
   text-align: center;
@@ -72,7 +72,8 @@ body {
   width: 180px;
   height: 180px;
   object-fit: cover;
-  border-radius: 12px; /* square with soft edges */
+  border-radius: 50%; /* square with soft edges */
   border: 4px solid #93c5fd;
-  margin-bottom: 25px;
+  display:block;
+  margin:25 px auto;
 }

@@ -63,19 +63,19 @@ export default function Home() {
           <div className="card">
             <h3>Retail Sales Forecasting</h3>
             <p>
-             Interactive Tic-Tac-Toe game with 1 player smart AI and 2 player mode, animations.
+              Performed Exploratory Data Analysis and forecasting on
+              historical retail sales data to identify trends and patterns.
             </p>
-            <a href="https://tic-tac-toe-game-beta-ecru.vercel.app/" target="_blank" rel="noopener noreferrer">
-              View Project
-            </a>
           </div>
 
           <div className="card">
             <h3>Tic-Tac-Toe</h3>
             <p>
-              Analytics-based project focused on optimizing supply chains
-              with sustainability and cost efficiency in mind.
+              Interacive Tic-Tac-Toe game with 1 Player AI, 2 Player mode, Animations.
             </p>
+            <a>href="https://tic-tac-toe-game-beta-ecru.vercel.app/" target="_blank" rel="noopener noreferrer"
+            view project 
+            </a> 
           </div>
         </div>
       </section>
